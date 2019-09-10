@@ -32,5 +32,8 @@ public class HBaseReducer extends TableReducer<Text, Put, ImmutableBytesWritable
         }
     }
     //fdsgdfs1111111
+
+
+    //dfsgfshdfs
 }
 

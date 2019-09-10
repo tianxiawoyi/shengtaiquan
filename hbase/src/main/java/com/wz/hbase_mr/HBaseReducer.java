@@ -31,5 +31,6 @@ public class HBaseReducer extends TableReducer<Text, Put, ImmutableBytesWritable
             context.write(new ImmutableBytesWritable(key.toString().getBytes()),put);
         }
     }
+    //fdsgdfs
 }
 
